@@ -82,7 +82,7 @@ namespace Market
             string erzaqsayi = erzaqsayinumeric.Text;
             string erzaqadi = erzaqaditxt.Text;
             string barcodealma = barcode.Text;
-            string listboxlama = listBox1.GetItemText;
+            string listboxlama = listBox1.Text;
             MessageBox.Show(listboxlama);
 
             listView1.Visible = true;
@@ -223,7 +223,7 @@ namespace Market
 
         private void button8_Click(object sender, EventArgs e)
         {
-
+            //comment1
         }
     }
 }

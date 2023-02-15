@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ehed\\Desktop\\AdAcademy\\WinFormModule\\Market\\Market\\Market.csproj",
+      "projectUniqueName": "C:\\Users\\Ehed\\Desktop\\git clone\\Repository-New\\Market\\Market\\Market.csproj",
       "projectName": "Market",
-      "projectPath": "C:\\Users\\Ehed\\Desktop\\AdAcademy\\WinFormModule\\Market\\Market\\Market.csproj",
+      "projectPath": "C:\\Users\\Ehed\\Desktop\\git clone\\Repository-New\\Market\\Market\\Market.csproj",
       "packagesPath": "C:\\Users\\Ehed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ehed\\Desktop\\AdAcademy\\WinFormModule\\Market\\Market\\obj\\",
+      "outputPath": "C:\\Users\\Ehed\\Desktop\\git clone\\Repository-New\\Market\\Market\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ehed\\AppData\\Roaming\\NuGet\\NuGet.Config",
